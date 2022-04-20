@@ -2,7 +2,7 @@
 //Dragon Shooter
 //4/19/22
 //12 hours to complete
-//Redesign the game's artwork, UI(font to more medieval font), and sound to change its theme/aesthetic (to something other than sci-fi) (60)
+//Redesign the game's artwork, UI, and sound to change its theme/aesthetic (to something other than sci-fi) (60)
 //Implement mouse control for player movement and mouse click to fire (20)
 let config = {
   type: Phaser.AUTO,
